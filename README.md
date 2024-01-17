@@ -37,4 +37,3 @@ Explore the dashboards and visualizations to understand the current state of emp
 
 Feel free to collaborate, analyze, and provide insights to collectively develop strategies that will positively impact employee retention at XYZ Inc.
 
-Note: Ensure the confidentiality and ethical handling of sensitive employee data throughout the analysis process.
